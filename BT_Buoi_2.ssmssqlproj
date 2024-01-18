@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BT_Buoi_2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-H0DN2SA\MSSQLSERVER01:DESKTOP-H0DN2SA\macht">
+          <Created>2024-01-15T16:05:37.3925597+07:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-H0DN2SA\MSSQLSERVER01</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateTableAndDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableAndDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DropTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DropTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DropView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DropView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H0DN2SA\MSSQLSERVER01:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-H0DN2SA\MSSQLSERVER01</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
